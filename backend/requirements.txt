@@ -71,7 +71,7 @@ MarkupSafe==3.0.3
 matplotlib==3.10.8
 mccabe==0.7.0
 mdurl==0.1.2
-mediapipe>=0.10.0
+mediapipe==0.10.21
 ml_dtypes==0.5.4
 motor==3.7.1
 moviepy==1.0.3
