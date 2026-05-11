@@ -94,7 +94,7 @@ pocketsphinx==5.0.4
 pooch==1.9.0
 preshed==3.0.13
 proglog==0.1.12
-protobuf==3.20.3
+protobuf>=4.25.3,<5.0
 psutil==7.2.2
 pyasn1==0.6.3
 pycodestyle==2.14.0
